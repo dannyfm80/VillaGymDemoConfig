@@ -2,10 +2,10 @@
   "Pecho": [
     {
       "id": "press-pecho",
-      "name": "Press de pecho",
-      "type": "Máquina guiada",
-      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
-      "detailImage": "",
+      "name": "Aperturas",
+      "type": "Pectoral",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793118107/pecho_aperturas.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113576/aperturasw_pecho.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85",
         "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=85"
@@ -33,42 +33,15 @@
       ],
       "capacity": "Peso ajustable",
       "notes": "Ejemplo de contenido: reemplaza las imágenes ilustrativas por las fotos reales de Villagym."
-    },
-    {
-      "id": "pec-deck",
-      "name": "Pec deck / aperturas",
-      "type": "Aperturas de pecho",
-      "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=85",
-      "detailImage": "",
-      "gallery": [
-        "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1200&q=85"
-      ],
-      "muscles": [
-        "Pectorales"
-      ],
-      "exercises": [
-        {
-          "name": "Aperturas en máquina",
-          "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=85"
-        }
-      ],
-      "description": "Movimiento de apertura para enfatizar los músculos pectorales.",
-      "instructions": [
-        "Ajusta el asiento según la altura de los hombros.",
-        "Cierra los brazos de manera controlada.",
-        "Vuelve despacio sin forzar el rango de movimiento."
-      ],
-      "capacity": "Peso ajustable",
-      "notes": ""
     }
   ],
   "Espalda": [
     {
       "id": "jalon-pecho",
-      "name": "Jalón al pecho",
-      "type": "Polea alta",
-      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
-      "detailImage": "",
+      "name": "Remo - Agarre estrecho",
+      "type": "Espalda, Brazos",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793118106/espalda_-_remo_agarre_estrecho.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113578/remo.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85",
         "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=85"
@@ -95,10 +68,10 @@
     },
     {
       "id": "remo-sentado",
-      "name": "Remo sentado",
-      "type": "Máquina guiada",
-      "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=900&q=85",
-      "detailImage": "",
+      "name": "Pajaros",
+      "type": "Espalda, Brazos",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793118107/espalda_pajaros.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113577/Pajaros.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=85"
       ],
@@ -121,67 +94,118 @@
       ],
       "capacity": "Peso ajustable",
       "notes": ""
-    },
+    }
+  ],
+  "Hombros": [
     {
-      "id": "remo-cable",
-      "name": "Remo con cable",
-      "type": "Poleas",
-      "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=85",
-      "detailImage": "",
-      "gallery": [
-        "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1200&q=85"
-      ],
-      "muscles": [
-        "Dorsales",
-        "Romboides",
-        "Bíceps"
-      ],
-      "exercises": [
-        {
-          "name": "Remo sentado en polea",
-          "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=85"
-        }
-      ],
-      "description": "Variante de remo con resistencia de cable.",
-      "instructions": [
-        "Siéntate estable y toma el accesorio.",
-        "Tira hacia el torso sin redondear la espalda.",
-        "Vuelve lentamente al inicio."
-      ],
-      "capacity": "Peso ajustable",
-      "notes": ""
-    },
-    {
-      "id": "hiperextension",
-      "name": "Banco de hiperextensión",
-      "type": "Zona lumbar",
+      "id": "press-hombros",
+      "name": "Press de hombros",
+      "type": "Máquina guiada",
       "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
       "detailImage": "",
       "gallery": [
         "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
       ],
       "muscles": [
-        "Erectores espinales",
-        "Glúteos",
-        "Isquiotibiales"
+        "Deltoides",
+        "Tríceps"
       ],
       "exercises": [
         {
-          "name": "Extensión lumbar",
+          "name": "Press de hombros sentado",
           "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
         }
       ],
-      "description": "Equipo para realizar extensiones controladas de cadera y tronco.",
+      "description": "Movimiento de empuje vertical para hombros.",
       "instructions": [
-        "Ajusta los apoyos a tu altura.",
-        "Desciende y sube con control, sin hiperextender la zona lumbar."
+        "Ajusta el asiento y el respaldo.",
+        "Empuja sin arquear excesivamente la espalda.",
+        "Baja con control."
       ],
-      "capacity": "Peso corporal",
+      "capacity": "Peso ajustable",
       "notes": ""
-    }
-  ],
-  "Hombros": [
-    {
+    },{
+      "id": "press-hombros",
+      "name": "Press de hombros",
+      "type": "Máquina guiada",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Deltoides",
+        "Tríceps"
+      ],
+      "exercises": [
+        {
+          "name": "Press de hombros sentado",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Movimiento de empuje vertical para hombros.",
+      "instructions": [
+        "Ajusta el asiento y el respaldo.",
+        "Empuja sin arquear excesivamente la espalda.",
+        "Baja con control."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    },{
+      "id": "press-hombros",
+      "name": "Press de hombros",
+      "type": "Máquina guiada",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Deltoides",
+        "Tríceps"
+      ],
+      "exercises": [
+        {
+          "name": "Press de hombros sentado",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Movimiento de empuje vertical para hombros.",
+      "instructions": [
+        "Ajusta el asiento y el respaldo.",
+        "Empuja sin arquear excesivamente la espalda.",
+        "Baja con control."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    },{
+      "id": "press-hombros",
+      "name": "Press de hombros",
+      "type": "Máquina guiada",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Deltoides",
+        "Tríceps"
+      ],
+      "exercises": [
+        {
+          "name": "Press de hombros sentado",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Movimiento de empuje vertical para hombros.",
+      "instructions": [
+        "Ajusta el asiento y el respaldo.",
+        "Empuja sin arquear excesivamente la espalda.",
+        "Baja con control."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    },{
       "id": "press-hombros",
       "name": "Press de hombros",
       "type": "Máquina guiada",
@@ -329,12 +353,39 @@
   "Abdomen": [
     {
       "id": "maquina-abdominal",
-      "name": "Máquina abdominal",
+      "name": "Torsión de tronco  ",
       "type": "Core",
-      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
-      "detailImage": "/images/abdomen-muscles.png",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793118106/abs_giro.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113578/tronco-rotacion.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+        ""
+      ],
+      "muscles": [
+        "Recto abdominal",
+        "Oblicuos"
+      ],
+      "exercises": [
+        {
+          "name": "Crunch en máquina",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Trabajo de flexión controlada del tronco.",
+      "instructions": [
+        "Ajusta el asiento y los apoyos.",
+        "Acerca el torso sin tirar del cuello.",
+        "Regresa lentamente."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    },{
+      "id": "maquina-abdominal",
+      "name": "Abdominal",
+      "type": "Core",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793118106/abs_Core.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113576/Abdominal.jpg",
+      "gallery": [
+        ""
       ],
       "muscles": [
         "Recto abdominal",
